@@ -209,7 +209,7 @@ home.html
         </div>  
     </div>
     <footer>
-        <center> Designed and Developed by V Guru Raghav (212223220027); 2024 </center>
+        <center> Designed and Developed by A. Jackson Raj 2024 </center>
     </footer>
 </body>
 </html>
@@ -367,7 +367,7 @@ people.html
                     <td> <img src="pathirana.jpeg"> </td>
                 </tr>
                 <tr align="center">
-                    <th>Guru Raghav Ponjeevith V</th>
+                    <th>Jackson Raj A</th>
                     <th> M S Dhoni </th>
                     <th> Suresh Raina </th>
                     <th> Ravindra Jadeja </th>
@@ -386,7 +386,7 @@ people.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by V Guru Raghav(212223220027); 2024 </center>
+        <center> Designed and Developed by A.Jackson Raj 2024 </center>
     </footer>
 </body>
 </html>
@@ -591,7 +591,7 @@ product.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by V Guru Raghav (212223220027); 2024</center>
+        <center> Designed and Developed by A. Jackson Raj; 2024</center>
     </footer>
 </body>
 </html>
@@ -819,7 +819,7 @@ contact.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by V Guru Raghav(212223220027); 2024  </center>
+        <center> Designed and Developed by Jackson Raj (212223040071); 2024  </center>
     </footer>
 </body>
 </html>
@@ -828,12 +828,11 @@ contact.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-16 104817.png>)
+![image](https://github.com/Drcatassistant/softweb/assets/144364462/bde428db-caf0-4b75-b081-0fa6464a54cc)
+![da](https://github.com/Drcatassistant/softweb/assets/144364462/b50160b4-e3c8-402c-856a-16207313a216)
 
 
-![alt text](<Screenshot 2024-05-16 104827.png>)
-![alt text](<Screenshot 2024-05-16 104854.png>)
+![image](https://github.com/Drcatassistant/softweb/assets/144364462/e4d0b0a0-3662-4c78-a7d1-054970d024f8)
 
-![alt text](<Screenshot 2024-05-16 104903.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
